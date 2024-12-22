@@ -93,10 +93,4 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/N1kr1s/count.svg?"  />
-</div>
-
-###
