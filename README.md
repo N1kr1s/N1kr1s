@@ -95,12 +95,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/N1kr1s/N1kr1s/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/N1kr1s/count.svg?"  />
 </div>
