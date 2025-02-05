@@ -84,6 +84,7 @@
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="styledcomponents logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <p>...and much more</p>
 </div>
 
 
