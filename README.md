@@ -84,7 +84,25 @@
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="styledcomponents logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <p>...and much more</p>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=babel" height="30" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bun" height="30" alt="bun logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=elysia" height="30" alt="elysia logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="30" alt="pnpm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="30" alt="vitest logo"  />
+  <p>...and more</p>
 </div>
 
 
